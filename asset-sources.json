@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Facade of unfinished concrete building at construction site",
+    "source": "https://www.pexels.com/photo/7108782/",
+    "download": "https://images.pexels.com/photos/7108782/pexels-photo-7108782.jpeg?auto=compress&w=1800",
+    "license": "https://www.pexels.com/license/",
+    "files": [
+      "building-800.webp",
+      "building-1600.webp"
+    ]
+  },
+  {
+    "name": "Construction worker pouring concrete on site",
+    "source": "https://www.pexels.com/photo/34842259/",
+    "download": "https://images.pexels.com/photos/34842259/pexels-photo-34842259.jpeg?auto=compress&w=1800",
+    "license": "https://www.pexels.com/license/",
+    "files": [
+      "concrete-800.webp",
+      "concrete-1600.webp"
+    ]
+  },
+  {
+    "name": "Swimming pools in resort",
+    "source": "https://www.pexels.com/photo/15532710/",
+    "download": "https://images.pexels.com/photos/15532710/pexels-photo-15532710.jpeg?auto=compress&w=1800",
+    "license": "https://www.pexels.com/license/",
+    "files": [
+      "pool-800.webp",
+      "pool-1600.webp"
+    ]
+  },
+  {
+    "name": "Construction worker working on a wall",
+    "source": "https://www.pexels.com/photo/5493658/",
+    "download": "https://images.pexels.com/photos/5493658/pexels-photo-5493658.jpeg?auto=compress&w=1800",
+    "license": "https://www.pexels.com/license/",
+    "files": [
+      "stucco-800.webp",
+      "stucco-1600.webp"
+    ]
+  }
+]

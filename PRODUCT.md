@@ -1,0 +1,2 @@
+# MPI Contracting Services
+Independent B2B subcontractor founded 1979 serving Southern California general contractors, developers and property teams. Four divisions per latest website brief: concrete, waterproofing, pool, stucco. Retain all 43 source service descriptions and 54 routes. Preview only; no backend, analytics, custom domain or real form submissions. Temporary text wordmark and disclosed stock imagery. No invented projects, ownership or testimonials. License number and legislation conflict omitted pending confirmation.
