@@ -38,5 +38,55 @@
       "stucco-800.webp",
       "stucco-1600.webp"
     ]
+  },
+  {
+    "name": "Construction workers operating a concrete finisher",
+    "source": "https://www.pexels.com/photo/31672890/",
+    "download": "https://images.pexels.com/photos/31672890/pexels-photo-31672890.jpeg?w=1800",
+    "license": "https://www.pexels.com/license/",
+    "files": [
+      "slab-800.webp",
+      "slab-1600.webp"
+    ]
+  },
+  {
+    "name": "Concrete footing placement beside reinforcing bars",
+    "source": "https://www.pexels.com/photo/26107204/",
+    "download": "https://images.pexels.com/photos/26107204/pexels-photo-26107204.jpeg?w=1800",
+    "license": "https://www.pexels.com/license/",
+    "files": [
+      "rebar-800.webp",
+      "rebar-1600.webp"
+    ]
+  },
+  {
+    "name": "Close-up of the edge of a swimming pool",
+    "source": "https://www.pexels.com/photo/24805050/",
+    "download": "https://images.pexels.com/photos/24805050/pexels-photo-24805050.jpeg?w=1800",
+    "license": "https://www.pexels.com/license/",
+    "files": [
+      "coping-800.webp",
+      "coping-1600.webp"
+    ]
+  },
+  {
+    "name": "Worker applying cement render to a masonry wall",
+    "source": "https://www.pexels.com/photo/10383579/",
+    "download": "https://images.pexels.com/photos/10383579/pexels-photo-10383579.jpeg?w=1800",
+    "license": "https://www.pexels.com/license/",
+    "files": [
+      "render-800.webp",
+      "render-1600.webp"
+    ]
+  },
+  {
+    "name": "Worker positioning waterproof membrane on a flat roof",
+    "source": "https://www.pexels.com/photo/39238314/",
+    "download": "https://images.pexels.com/photos/39238314/pexels-photo-39238314.jpeg?w=1800",
+    "license": "https://www.pexels.com/license/",
+    "files": [
+      "membrane-800.webp",
+      "membrane-1600.webp"
+    ]
   }
 ]

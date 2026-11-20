@@ -1,4 +1,11 @@
-# MPI V2 — architectural field journal
-Replacement visual world, not a reskin. Persuade homepage; Read service details; Experience capability gallery. Bright split photographic hero instead of previous dark stacked hero, Manrope instead of Barlow, emerald #07543e, mineral paper #fafbf7, ink #182c26, pale #edf1ea. Editorial service index instead of repetitive photo cards. Detail pages prioritize scope with a technical sidebar and horizontal contextual image. Contact uses focused two-column intake. Mobile stacks deliberately, with a 48px hamburger and trapped navigation focus.
-Typography: self-hosted Manrope 200–800, body 16/1.7, display 42–74px, heading 30–46px. Spacing: 20/25/35/50/65/90. Content gutters 6–7%, rectangular controls, thin rules. One 800ms material image reveal, 200ms control feedback; reduced motion and no-JS visible.
-Research: ui-ux-pro-max construction architectural editorial professional design-system returned Swiss hierarchy/hero focus. Adopted discipline, deliberately rejected orange/gray defaults in favor of requested green and independent MPI direction.
+# MPI V2 — architectural monograph
+
+User-approved non-green composition. Preserve the full-bleed structural hero, overlapping editorial division panels, horizontal material rail, typographic directory and dark contact band. Supersedes the old green field-journal direction.
+
+Typography: self-hosted Bodoni Moda display and Archivo body, SIL Open Font License. Palette: charcoal, warm ivory, parchment and restrained copper; exact tokens live in site/assets/site.css. No green brand treatment.
+
+Photos are illustrative licensed Pexels stock, never MPI projects, employees or client evidence. Concrete uses slab finishing and structural frames; waterproofing uses rolled membrane application (flat-roof context disclosed, not a claim of a specific MPI system); pool uses water/stone coping and resort environment only within that division; stucco uses cement-render application and plaster finishing. Sources and licenses: asset-sources.json and public photo-credits route.
+
+Self-hosted 800/1600px WebP, true intrinsic dimensions, subject-specific crops, eager/high-priority above-fold photos, responsive hero preload and lazy below-fold images. Mobile descriptor: 11px. Motion remains progressive and reduced-motion aware; no-JS content visible.
+
+Retain 54 routes and 43 exact service descriptions. Form is local demo only. No invented testimonials or projects; conflicting credential numbers remain omitted.
